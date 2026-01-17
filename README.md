@@ -209,5 +209,3 @@ This project follows a production-style retrieval architecture:
 📌 **Assignment:** Glance ML Internship — Multimodal Fashion & Context Retrieval
 
 
-
-This creates a single directory:

@@ -1,4 +1,4 @@
-# Glance ML Internship Assignment — Multimodal Fashion & Context Retrieval 
+# Multimodal Fashion & Context Retrieval 
 
 This repository implements an **intelligent multimodal search engine** that retrieves the most relevant fashion images from a large dataset using **natural language queries**.  
 The system understands:
